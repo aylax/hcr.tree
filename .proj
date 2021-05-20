@@ -1,0 +1,14 @@
+.
+├── .cargo/
+│   └── config.toml
+├── .gitignore
+├── .proj
+├── Cargo.lock
+├── Cargo.toml
+├── LICENSE
+├── README.md
+├── proj.gen
+└── src/
+    └── main.rs
+
+2 directories, 9 files
