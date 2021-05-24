@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -aF -I 'target|.git' > .proj
+tree -aF -I 'target|.git|book' > .proj

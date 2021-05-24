@@ -1,0 +1,6 @@
+[book]
+authors = ["zhoubye"]
+language = "en"
+multilingual = false
+src = "src"
+title = "stargazer"

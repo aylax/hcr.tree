@@ -7,8 +7,18 @@
 ├── Cargo.toml
 ├── LICENSE
 ├── README.md
+├── docs/
+│   ├── .gitignore
+│   ├── book.toml
+│   └── src/
+│       ├── SUMMARY.md
+│       └── chapter_1.md
+├── examples/
+│   └── main.rs
 ├── proj.gen
-└── src/
-    └── main.rs
+├── src/
+│   └── main.rs
+└── tests/
+    └── proj_test.rs
 
-2 directories, 9 files
+6 directories, 15 files
