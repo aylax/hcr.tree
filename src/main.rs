@@ -1,1 +1,5 @@
-fn main() { println!("hello world"); }
+use bevy::prelude::*;
+
+fn main() {
+    App::build().run();
+}
