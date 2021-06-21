@@ -1,24 +1,15 @@
 .
 ├── .cargo/
 │   └── config.toml
-├── .gitignore
-├── .proj
-├── Cargo.lock
 ├── Cargo.toml
+├── .gitignore
 ├── LICENSE
-├── README.md
-├── docs/
-│   ├── .gitignore
-│   ├── book.toml
-│   └── src/
-│       ├── SUMMARY.md
-│       └── chapter_1.md
-├── examples/
-│   └── main.rs
+├── .proj
 ├── proj.gen
+├── README.md
 ├── src/
 │   └── main.rs
 └── tests/
     └── proj_test.rs
 
-6 directories, 15 files
+3 directories, 9 files
